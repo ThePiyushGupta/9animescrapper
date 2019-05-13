@@ -1,0 +1,23 @@
+{
+  "name": "9animescrapper",
+  "version": "1.0.0",
+  "description": "This is to extract videos from 9anime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePiyushGupta/9animescrapper.git"
+  },
+  "keywords": [
+    "9anime",
+    "9animescrapper"
+  ],
+  "author": "Piyush Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThePiyushGupta/9animescrapper/issues"
+  },
+  "homepage": "https://github.com/ThePiyushGupta/9animescrapper#readme"
+}
